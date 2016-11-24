@@ -10,8 +10,7 @@ title: Warm wind from Mike
 email: mikewolfli@163.com
 csdn: http://blog.csdn.net/mikewolfli
 description: > # this means to ignore newlines until "baseurl:"
-  This my english blog site. I will write my documents on this site in English. 
-Welcome to communicate technical points with me!
+  This my english blog site. I will write my documents on this site in English. Welcome to communicate technical points with me!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mikewolfli.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
